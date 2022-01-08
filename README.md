@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fayiq
-- 👀 I’m interested in Data-Analytics | Data-Visualization | Data-Preprocessing | Machine-Learning
+- 👀 I’m interested in Data-Engineering | Data-Analytics |  Machine-Learning | Big-Data
 - 🌱 I’m currently learning DataScience
 - 💞️ I’m looking to collaborate on projects for DataScience
 - 📫 How to reach me fayiqc@gmail.com
